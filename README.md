@@ -1,4 +1,4 @@
-# KAFKA - Producers and Consumers implementations
+# KAFKA - Producers and Consumers using Kafka client in Java
 
 Course: UDEMY - Apache Kafka Series - Learn Apache Kafka for Beginners v2
 

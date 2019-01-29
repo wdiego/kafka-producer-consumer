@@ -1,8 +1,8 @@
 # KAFKA - Producers and Consumers using Kafka client in Java
 
-Course: UDEMY - Apache Kafka Series - Learn Apache Kafka for Beginners v2
+Part of the course: UDEMY - Apache Kafka Series - Learn Apache Kafka for Beginners v2
 
-Implementations done:
+Examples of implementations:
 
 - Simple producer example
 - Producer using keys
